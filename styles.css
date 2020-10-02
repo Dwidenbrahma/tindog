@@ -1,0 +1,224 @@
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+
+}
+h1, h2, h3, h4, h5, h6{
+font-family: sans-serif;
+    
+}
+
+
+
+p{
+    font-weight: normal;
+    font-size: 1rem;
+    color: grey;
+}
+
+/*Heading*/
+.big-heading{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 3rem;
+    line-height: 1.5;  
+    font-weight: 900;
+
+}
+/*section*/
+.color-section{
+    color: #fff;
+    background-color: #ff4c68;
+
+
+}
+
+.white-section{
+    background-color: #fff;
+
+}
+
+
+
+/*navigation bar*/
+.navbar{
+    padding:0 0 4.5rem;
+}
+.navbar-brand{
+
+
+    font-family: 'Ubuntu';
+    font-size: 2.5rem;
+    font-weight: bold;
+}
+.nav-item{
+
+    padding: 0 10px;
+}
+.nav-link{
+font-size: 1.2rem;
+font-family: cursive;
+
+
+}
+.download-button{
+    margin: 5% 3% 5% 0;
+}
+
+.container-fluid{
+    padding: 7% 15%;
+    }
+/*title*/
+
+#title{
+
+    text-align: left;
+}
+
+
+
+.title-image{
+
+    width: 60%;
+    transform: rotate(25deg);
+    position: absolute;
+    right: 30%;
+
+
+}
+#title .container-fluid{
+    padding: 3% 15% 7%;
+}
+
+
+/*Feature section*/
+#features{
+    
+ 
+    position: relative;
+
+}
+.features-box{
+
+padding: 5%;
+width: auto;
+
+}
+.icon{
+
+color: #ef8172;s
+margin-bottom: 1rem;
+
+}
+.icon:hover{
+
+color: #ff4c68;
+
+}
+.feature-title{
+    font-size: 1.566rem;
+    line-height: 1.5;
+    font-weight: bold;
+    
+}
+/*Testimonial section*/
+
+
+}
+#press{
+
+ 
+   
+    padding: 3%;
+
+
+}
+.testimonial-image{
+width: 10%;
+border-radius: 100%;
+margin: 20px;
+
+
+}
+.press-img{
+
+width: 15%;
+margin: 20px 20px 50px;
+}
+.testimonil-text{
+    font-size: 3rem;
+    line-height: 1.5;
+    font-weight: bold;
+
+}
+/* carousel section*/
+.carousel-item{
+    width: 7% 15%;
+}
+.testimonil-text{
+    font-weight: 700;
+    font-size: 3rem;
+    line-height: 1.5;
+    
+
+}
+
+}
+/*Pricing section*/
+    #pricing{
+        padding: 50px;    
+    }
+
+.text-pricing{
+    font-size: 3rem;
+    line-height: 1.5;
+    font-weight: bold;
+
+
+
+}
+.pricing-column{
+
+    padding: 3% 2%;
+}
+@media(max-width: 1028px){
+
+    #title{
+        text-align: center;
+    }
+    .title-image{
+
+        position: static;
+        transform: rotate(0);
+    }
+
+}
+
+/* cta*/
+#cta{
+   
+  
+   
+    font-size: 3.5rem;
+    line-height: 1.5;
+    
+}
+.h3h{
+    font-family: 'Montserrat';
+    font-size: 2.34rem;
+  
+    line-height: 1;
+    margin-bottom: 50px;
+  
+    
+}
+/*footer section*/
+#footer{
+
+    
+    padding-top: 7%;
+
+    
+}
+.footer-icon{
+padding: 1rem;
+}
